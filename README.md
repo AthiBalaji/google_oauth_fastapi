@@ -1,4 +1,4 @@
-# Job Portal Backend
+# google oauth
 
 A FastAPI application with Google OAuth authentication and SQLAlchemy ORM.
 
